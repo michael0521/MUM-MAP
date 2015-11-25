@@ -1,0 +1,7 @@
+ In the first lesson, I learned to install Android Studio, import an Eclipse ADT existing project to Android Studio,
+and enable the Android tablet in debug mode. Finally, push the FruitSlick app into the tablet, and test it in real hardware.
+Then I new sample project which is blank activity with Android 6.0 SDK, and 'Run' it in both real tablet and Android Virtual
+Divce.
+
+ I also learned the lifecyle states of Activity in Android platform. How each state change to another state. And also learned
+Android project structure, and the functionality of each panel in Android studio.
